@@ -1,0 +1,37 @@
+0 user0 user0pw 홍길동 서울특별시 관악구 청림3마길 100
+0 user1 user1pw 이순신 서울특별시 강남구 봉은사로4길 100
+0 user2 user2pw 박찬호 서울특별시 구로구 신도림로 100
+1 manager0 manager0pw
+0 user3 user3pw 박지성 인천광역시 중구 홍예문로 100
+0 user4 user4pw 김철수 인천광역시 부평구 길주로44번길 100
+0 user5 user5pw 한순이 인천광역시 남동구 만월북로112번길 100
+0 user6 user6pw 박명수 강원도 원주시 중앙로 100
+0 user7 user7pw 유재석 강원도 원주시 충정길 100
+0 user8 user8pw 정준하 강원도 원주시 진광길 100
+0 user9 user9pw 송중기 강원도 강릉시 남부로 100
+0 user10 user10pw 송혜교 강원도 강릉시 강동면 와천로 100
+0 user11 user11pw 이철순 강원도 강릉시 연곡면 부연동길 100
+0 user12 user12pw 차명기 대전광역시 동구 대전천동로 100
+0 user13 user13pw 김연아 대전광역시 중구 보문로 100
+0 user14 user14pw 서수진 대전광역시 대덕구 화덕로21번길 100
+0 user15 user15pw 최시연 대구광역시 중구 중앙대로 100
+0 user16 user16pw 박병호 대구광역시 동구 경안로 100
+0 user17 user17pw 이대호 대구광역시 달서구 당산로 100
+0 user18 user18pw 김현수 광주광역시 동구 구성로194번길 100
+0 user19 user19pw 류현진 광주광역시 남구 천변좌로338번길 100
+0 user20 user20pw 신선아 광주광역시 남구 중앙로 100
+0 user21 user21pw 선동렬 전라남도 목포시 삼학로92번길 100
+0 user22 user22pw 장동건 전라남도 목포시 양을로 100
+0 user23 user23pw 고소영 전라남도 목포시 내화마을길 100
+0 user24 user24pw 구혜선 전라남도 여수시 소라면 하세동길 100
+0 user25 user25pw 장동민 전라남도 여수시 삼산면 대동해안길 100
+0 user26 user26pw 김지원 전라남도 여수시 학동북4길 100
+0 user27 user27pw 오상진 울산광역시 동구 화암5길 100
+0 user28 user28pw 허수경 울산광역시 울주군 두동면 구미월평로 100
+0 user29 user29pw 이동국 울산광역시 동구 봉수로 100
+0 user30 user30pw 손흥민 부산광역시 해운대구 윗반송로 100
+0 user31 user31pw 정조국 부산광역시 남구 수영로 100
+0 user32 user32pw 기성용 부산광역시 영도구 해양로 100
+0 user33 user33pw 박주영 제주특별자치도 제주시 신성로8길 100
+0 user34 user34pw 구자철 제주특별자치도 서귀포시 중앙로 100
+0 user35 user35pw 이승우 제주특별자치도 서귀포시 남원읍 남한로 100

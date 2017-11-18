@@ -1,0 +1,35 @@
+﻿빌드 시작: 2016-05-13 오전 9:33:12
+     1>2 노드의 "G:\설프\Project 2\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt App.cpp Mail.cpp MailCenter.cpp MailDelivery.cpp main.cpp User.cpp
+         User.cpp
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\user.cpp(34): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\user.cpp(98): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\user.cpp(194): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\user.cpp(228): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         main.cpp
+         MailDelivery.cpp
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(16): warning C4101: 'path' :참조되지 않은 지역 변수입니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(124): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(135): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(152): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(203): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(226): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         MailCenter.cpp
+         Mail.cpp
+         App.cpp
+         코드를 생성하고 있습니다...
+     1>g:\설프\project 2\[project 2] 2015104220_정종윤\[project 2] 2015104220_정종윤\maildelivery.cpp(274): warning C4715: 'MailDelivery::getCityNameByMailCenterId' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\설프\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\설프\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\설프\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.lib" /MACHINE:X86 Debug\App.obj
+         Debug\Mail.obj
+         Debug\MailCenter.obj
+         Debug\MailDelivery.obj
+         Debug\main.obj
+         Debug\User.obj
+         [Project 2] 2015104220_정종윤.vcxproj -> G:\설프\Project 2\[Project 2] 2015104220_정종윤\Debug\[Project 2] 2015104220_정종윤.exe
+     1>"G:\설프\Project 2\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤\[Project 2] 2015104220_정종윤.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:15.70
